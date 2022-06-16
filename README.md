@@ -2,6 +2,10 @@
 
 # Welcome to PureUI
 
+## Demo
+Check out PureUI in action at reeceatkinson.com and hover over some elements to see the effects.
+**If you want you website added here please submit a PR**
+
 ## Coming Soon
 MIT LICENSE
 STYLESHEET BY CDN
